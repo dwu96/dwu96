@@ -2,7 +2,7 @@
 
 Software engineer at **Amazon**, Seattle.
 
-Columbia University, MS 2020 · Beihang University, BS 2018
+Electrical Engineering — MS, Columbia University 2020 · BS, Beihang University 2018
 
 ### 🧰 Toolbox
 
