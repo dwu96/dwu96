@@ -1,8 +1,8 @@
 ## Di Wu
 
-Software engineer at **Amazon**, Seattle. I build AI developer tools.
+Software engineer at **Amazon**, Seattle.
 
-Columbia MS '20 · BUAA EE '18
+Columbia University, MS 2020 · Beihang University, BS 2018
 
 ### 🧰 Toolbox
 
